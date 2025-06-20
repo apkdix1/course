@@ -1,0 +1,775 @@
+<html lang="en">
+ <head> 
+  <meta charset="UTF-8"> 
+  <link rel="icon" type="image/svg+xml" href="/vite.svg"> 
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"> 
+  <title>+1000 Premium Courses</title> 
+  <link rel="stylesheet" crossorigin="" href="/assets/index-BQkLR9e9.css"> 
+ </head> 
+ <body> 
+  <div id="root">
+   <div class="min-h-screen bg-black text-white flex flex-col items-center px-4 py-8 md:py-12 relative overflow-hidden">
+    <div class="absolute top-0 left-1/4 w-[600px] h-[600px] bg-[#00BFFF] rounded-full filter blur-[160px] opacity-25"></div>
+    <div class="absolute bottom-0 right-1/4 w-[600px] h-[600px] bg-[#00BFFF] rounded-full filter blur-[160px] opacity-25"></div>
+    <div class="absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 w-[800px] h-[800px] bg-[#00BFFF] rounded-full filter blur-[180px] opacity-10"></div>
+    <div class="w-full max-w-4xl relative z-10">
+     <div class="flex flex-col items-center mb-10">
+      <div class="mb-8 relative flex items-center justify-center">
+       <span class="absolute -top-4 -left-4 animate-pulse text-[#00BFFF]">
+        <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewbox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-sparkles ">
+         <path d="m12 3-1.912 5.813a2 2 0 0 1-1.275 1.275L3 12l5.813 1.912a2 2 0 0 1 1.275 1.275L12 21l1.912-5.813a2 2 0 0 1 1.275-1.275L21 12l-5.813-1.912a2 2 0 0 1-1.275-1.275L12 3Z"></path>
+         <path d="M5 3v4"></path>
+         <path d="M19 17v4"></path>
+         <path d="M3 5h4"></path>
+         <path d="M17 19h4"></path>
+        </svg></span>
+       <svg xmlns="http://www.w3.org/2000/svg" width="90" height="90" viewbox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-graduation-cap text-[#00BFFF] drop-shadow-xl">
+        <path d="M21.42 10.922a1 1 0 0 0-.019-1.838L12.83 5.18a2 2 0 0 0-1.66 0L2.6 9.08a1 1 0 0 0 0 1.832l8.57 3.908a2 2 0 0 0 1.66 0z"></path>
+        <path d="M22 10v6"></path>
+        <path d="M6 12.5V16a6 3 0 0 0 12 0v-3.5"></path>
+       </svg>
+       <span class="absolute -bottom-4 -right-4 animate-pulse text-[#00BFFF]">
+        <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewbox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-sparkles ">
+         <path d="m12 3-1.912 5.813a2 2 0 0 1-1.275 1.275L3 12l5.813 1.912a2 2 0 0 1 1.275 1.275L12 21l1.912-5.813a2 2 0 0 1 1.275-1.275L21 12l-5.813-1.912a2 2 0 0 1-1.275-1.275L12 3Z"></path>
+         <path d="M5 3v4"></path>
+         <path d="M19 17v4"></path>
+         <path d="M3 5h4"></path>
+         <path d="M17 19h4"></path>
+        </svg></span>
+      </div>
+      <h1 class="text-5xl md:text-7xl font-extrabold text-center mb-4 bg-clip-text text-transparent bg-gradient-to-r from-[#00BFFF] via-white to-[#00BFFF] drop-shadow-2xl tracking-tight"><span class="inline-block text-[#00BFFF]">+1000</span> <span class="text-white">Premium</span> <span class="text-[#00BFFF]">Courses</span></h1>
+      <div class="w-32 h-1 bg-gradient-to-r from-[#00BFFF] via-white to-[#00BFFF] rounded-full opacity-70 mb-5"></div>
+      <p class="text-lg text-white/80 text-center max-w-2xl">Master In-Demand Skills with Premium Course Collection</p>
+     </div>
+     <div class="flex justify-center mb-12">
+      <div class="relative group">
+       <div class="absolute -inset-1 bg-gradient-to-r from-[#00BFFF]/20 via-transparent to-[#00BFFF]/20 rounded-xl blur-md opacity-50 group-hover:opacity-75 transition-all duration-[2000ms] ease-in-out"></div>
+       <button class="relative bg-[#101624] text-white min-w-[200px] py-3 px-6 rounded-xl flex items-center justify-center gap-3 transform hover:scale-102 transition-all duration-500 ease-out border border-[#00BFFF]/20">
+        <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewbox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-unlock text-[#00BFFF] transition-transform duration-500 ease-out group-hover:rotate-6">
+         <rect width="18" height="11" x="3" y="11" rx="2" ry="2"></rect>
+         <path d="M7 11V7a5 5 0 0 1 9.9-1"></path>
+        </svg><span class="text-lg font-medium tracking-wide text-white/90"><span class="text-[#00BFFF]">Unlock All</span></span></button>
+      </div>
+     </div>
+     <div class="w-full p-2 sm:p-4 md:p-8 max-w-7xl mx-auto">
+      <div class="w-full overflow-x-auto scrollbar-hide mb-4">
+       <div class="flex gap-2 pb-2 min-w-min">
+        <button class="px-4 py-1.5 rounded-lg whitespace-nowrap text-sm transition-all duration-300 bg-[#00BFFF] text-black font-medium">All</button>
+        <button class="px-4 py-1.5 rounded-lg whitespace-nowrap text-sm transition-all duration-300 bg-[#101624] text-white/80 hover:bg-[#0a223a] border border-[#00BFFF]/20">AI Money Making Mastery</button>
+        <button class="px-4 py-1.5 rounded-lg whitespace-nowrap text-sm transition-all duration-300 bg-[#101624] text-white/80 hover:bg-[#0a223a] border border-[#00BFFF]/20">Money Making Mastery</button>
+        <button class="px-4 py-1.5 rounded-lg whitespace-nowrap text-sm transition-all duration-300 bg-[#101624] text-white/80 hover:bg-[#0a223a] border border-[#00BFFF]/20">Quick Start Empire</button>
+        <button class="px-4 py-1.5 rounded-lg whitespace-nowrap text-sm transition-all duration-300 bg-[#101624] text-white/80 hover:bg-[#0a223a] border border-[#00BFFF]/20">Andrew Tate's Empire Series</button>
+        <button class="px-4 py-1.5 rounded-lg whitespace-nowrap text-sm transition-all duration-300 bg-[#101624] text-white/80 hover:bg-[#0a223a] border border-[#00BFFF]/20">Free Online Side Hustles: No Investment Needed</button>
+        <button class="px-4 py-1.5 rounded-lg whitespace-nowrap text-sm transition-all duration-300 bg-[#101624] text-white/80 hover:bg-[#0a223a] border border-[#00BFFF]/20">Top Free Online Careers: $100K+ Potential</button>
+        <button class="px-4 py-1.5 rounded-lg whitespace-nowrap text-sm transition-all duration-300 bg-[#101624] text-white/80 hover:bg-[#0a223a] border border-[#00BFFF]/20">Personal Growth</button>
+        <button class="px-4 py-1.5 rounded-lg whitespace-nowrap text-sm transition-all duration-300 bg-[#101624] text-white/80 hover:bg-[#0a223a] border border-[#00BFFF]/20">Side Hustles</button>
+        <button class="px-4 py-1.5 rounded-lg whitespace-nowrap text-sm transition-all duration-300 bg-[#101624] text-white/80 hover:bg-[#0a223a] border border-[#00BFFF]/20">Programming</button>
+        <button class="px-4 py-1.5 rounded-lg whitespace-nowrap text-sm transition-all duration-300 bg-[#101624] text-white/80 hover:bg-[#0a223a] border border-[#00BFFF]/20">Data Science</button>
+        <button class="px-4 py-1.5 rounded-lg whitespace-nowrap text-sm transition-all duration-300 bg-[#101624] text-white/80 hover:bg-[#0a223a] border border-[#00BFFF]/20">Digital Marketing</button>
+        <button class="px-4 py-1.5 rounded-lg whitespace-nowrap text-sm transition-all duration-300 bg-[#101624] text-white/80 hover:bg-[#0a223a] border border-[#00BFFF]/20">Ecommerce</button>
+        <button class="px-4 py-1.5 rounded-lg whitespace-nowrap text-sm transition-all duration-300 bg-[#101624] text-white/80 hover:bg-[#0a223a] border border-[#00BFFF]/20">Crypto &amp; Blockchain</button>
+        <button class="px-4 py-1.5 rounded-lg whitespace-nowrap text-sm transition-all duration-300 bg-[#101624] text-white/80 hover:bg-[#0a223a] border border-[#00BFFF]/20">Automation &amp; AI</button>
+        <button class="px-4 py-1.5 rounded-lg whitespace-nowrap text-sm transition-all duration-300 bg-[#101624] text-white/80 hover:bg-[#0a223a] border border-[#00BFFF]/20">Finance &amp; Accounting</button>
+        <button class="px-4 py-1.5 rounded-lg whitespace-nowrap text-sm transition-all duration-300 bg-[#101624] text-white/80 hover:bg-[#0a223a] border border-[#00BFFF]/20">Freelancing</button>
+        <button class="px-4 py-1.5 rounded-lg whitespace-nowrap text-sm transition-all duration-300 bg-[#101624] text-white/80 hover:bg-[#0a223a] border border-[#00BFFF]/20">Full Stack Developer</button>
+        <button class="px-4 py-1.5 rounded-lg whitespace-nowrap text-sm transition-all duration-300 bg-[#101624] text-white/80 hover:bg-[#0a223a] border border-[#00BFFF]/20">YouTube Automation</button>
+        <button class="px-4 py-1.5 rounded-lg whitespace-nowrap text-sm transition-all duration-300 bg-[#101624] text-white/80 hover:bg-[#0a223a] border border-[#00BFFF]/20">TikTok Videos</button>
+        <button class="px-4 py-1.5 rounded-lg whitespace-nowrap text-sm transition-all duration-300 bg-[#101624] text-white/80 hover:bg-[#0a223a] border border-[#00BFFF]/20">Faceless Channel</button>
+        <button class="px-4 py-1.5 rounded-lg whitespace-nowrap text-sm transition-all duration-300 bg-[#101624] text-white/80 hover:bg-[#0a223a] border border-[#00BFFF]/20">Instagram Automation</button>
+        <button class="px-4 py-1.5 rounded-lg whitespace-nowrap text-sm transition-all duration-300 bg-[#101624] text-white/80 hover:bg-[#0a223a] border border-[#00BFFF]/20">ChatGPT</button>
+        <button class="px-4 py-1.5 rounded-lg whitespace-nowrap text-sm transition-all duration-300 bg-[#101624] text-white/80 hover:bg-[#0a223a] border border-[#00BFFF]/20">Cloud &amp; IT</button>
+       </div>
+      </div>
+      <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6 mt-6">
+       <div class="group cursor-pointer">
+        <div class="relative bg-[#101624] rounded-xl overflow-hidden border border-[#00BFFF]/20 transition-all duration-300 hover:-translate-y-1 hover:shadow-lg hover:shadow-[#00BFFF]/20">
+         <div class="relative p-6">
+          <div class="absolute -inset-3 bg-gradient-to-r from-[#00BFFF]/10 to-transparent blur-xl opacity-50 group-hover:opacity-75 transition-opacity duration-500"></div>
+          <div class="relative flex items-center gap-4">
+           <div class="bg-[#0a1a2f] p-3 rounded-xl border border-[#00BFFF]/20">
+            <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewbox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-folder w-8 h-8 text-[#00BFFF]">
+             <path d="M20 20a2 2 0 0 0 2-2V8a2 2 0 0 0-2-2h-7.9a2 2 0 0 1-1.69-.9L9.6 3.9A2 2 0 0 0 7.93 3H4a2 2 0 0 0-2 2v13a2 2 0 0 0 2 2Z"></path>
+            </svg>
+           </div>
+           <div class="flex-1">
+            <h3 class="text-xl font-bold text-white mb-1 line-clamp-1">AI Money Making Mastery</h3>
+            <p class="text-[#00BFFF] text-sm">12 Courses</p>
+           </div>
+          </div>
+         </div>
+         <div class="px-6 pb-6">
+          <div class="mt-2 space-y-2">
+           <div class="text-sm text-gray-300 line-clamp-1">
+            • 🤖 ChatGPT Business Empire: $10K/Month Blueprint
+           </div>
+           <div class="text-sm text-gray-300 line-clamp-1">
+            • 🎨 AI Art Business: Midjourney to Main Income
+           </div>
+           <div class="text-sm text-[#00BFFF]">
+            +10 more courses
+           </div>
+          </div>
+          <button class="mt-6 w-full bg-[#101624] text-[#00BFFF] font-semibold py-2 px-4 rounded-lg flex items-center justify-center gap-2 group-hover:bg-[#0a223a] border border-[#00BFFF]/20 transition-all duration-300"><span>View Courses</span></button>
+         </div>
+        </div>
+       </div>
+       <div class="group cursor-pointer">
+        <div class="relative bg-[#101624] rounded-xl overflow-hidden border border-[#00BFFF]/20 transition-all duration-300 hover:-translate-y-1 hover:shadow-lg hover:shadow-[#00BFFF]/20">
+         <div class="relative p-6">
+          <div class="absolute -inset-3 bg-gradient-to-r from-[#00BFFF]/10 to-transparent blur-xl opacity-50 group-hover:opacity-75 transition-opacity duration-500"></div>
+          <div class="relative flex items-center gap-4">
+           <div class="bg-[#0a1a2f] p-3 rounded-xl border border-[#00BFFF]/20">
+            <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewbox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-folder w-8 h-8 text-[#00BFFF]">
+             <path d="M20 20a2 2 0 0 0 2-2V8a2 2 0 0 0-2-2h-7.9a2 2 0 0 1-1.69-.9L9.6 3.9A2 2 0 0 0 7.93 3H4a2 2 0 0 0-2 2v13a2 2 0 0 0 2 2Z"></path>
+            </svg>
+           </div>
+           <div class="flex-1">
+            <h3 class="text-xl font-bold text-white mb-1 line-clamp-1">Money Making Mastery</h3>
+            <p class="text-[#00BFFF] text-sm">12 Courses</p>
+           </div>
+          </div>
+         </div>
+         <div class="px-6 pb-6">
+          <div class="mt-2 space-y-2">
+           <div class="text-sm text-gray-300 line-clamp-1">
+            • 💰 7-Figure Money Machine: Ultimate Wealth Blueprint 2025
+           </div>
+           <div class="text-sm text-gray-300 line-clamp-1">
+            • 🎮 Gaming Empire: Monetize Your Gaming Skills
+           </div>
+           <div class="text-sm text-[#00BFFF]">
+            +10 more courses
+           </div>
+          </div>
+          <button class="mt-6 w-full bg-[#101624] text-[#00BFFF] font-semibold py-2 px-4 rounded-lg flex items-center justify-center gap-2 group-hover:bg-[#0a223a] border border-[#00BFFF]/20 transition-all duration-300"><span>View Courses</span></button>
+         </div>
+        </div>
+       </div>
+       <div class="group cursor-pointer">
+        <div class="relative bg-[#101624] rounded-xl overflow-hidden border border-[#00BFFF]/20 transition-all duration-300 hover:-translate-y-1 hover:shadow-lg hover:shadow-[#00BFFF]/20">
+         <div class="relative p-6">
+          <div class="absolute -inset-3 bg-gradient-to-r from-[#00BFFF]/10 to-transparent blur-xl opacity-50 group-hover:opacity-75 transition-opacity duration-500"></div>
+          <div class="relative flex items-center gap-4">
+           <div class="bg-[#0a1a2f] p-3 rounded-xl border border-[#00BFFF]/20">
+            <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewbox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-folder w-8 h-8 text-[#00BFFF]">
+             <path d="M20 20a2 2 0 0 0 2-2V8a2 2 0 0 0-2-2h-7.9a2 2 0 0 1-1.69-.9L9.6 3.9A2 2 0 0 0 7.93 3H4a2 2 0 0 0-2 2v13a2 2 0 0 0 2 2Z"></path>
+            </svg>
+           </div>
+           <div class="flex-1">
+            <h3 class="text-xl font-bold text-white mb-1 line-clamp-1">Quick Start Empire</h3>
+            <p class="text-[#00BFFF] text-sm">11 Courses</p>
+           </div>
+          </div>
+         </div>
+         <div class="px-6 pb-6">
+          <div class="mt-2 space-y-2">
+           <div class="text-sm text-gray-300 line-clamp-1">
+            • 📱 CapCut Mastery: Viral Video Secrets 2025
+           </div>
+           <div class="text-sm text-gray-300 line-clamp-1">
+            • 🎵 TikTok Money Machine: Zero to Hero
+           </div>
+           <div class="text-sm text-[#00BFFF]">
+            +9 more courses
+           </div>
+          </div>
+          <button class="mt-6 w-full bg-[#101624] text-[#00BFFF] font-semibold py-2 px-4 rounded-lg flex items-center justify-center gap-2 group-hover:bg-[#0a223a] border border-[#00BFFF]/20 transition-all duration-300"><span>View Courses</span></button>
+         </div>
+        </div>
+       </div>
+       <div class="group cursor-pointer">
+        <div class="relative bg-[#101624] rounded-xl overflow-hidden border border-[#00BFFF]/20 transition-all duration-300 hover:-translate-y-1 hover:shadow-lg hover:shadow-[#00BFFF]/20">
+         <div class="relative p-6">
+          <div class="absolute -inset-3 bg-gradient-to-r from-[#00BFFF]/10 to-transparent blur-xl opacity-50 group-hover:opacity-75 transition-opacity duration-500"></div>
+          <div class="relative flex items-center gap-4">
+           <div class="bg-[#0a1a2f] p-3 rounded-xl border border-[#00BFFF]/20">
+            <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewbox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-folder w-8 h-8 text-[#00BFFF]">
+             <path d="M20 20a2 2 0 0 0 2-2V8a2 2 0 0 0-2-2h-7.9a2 2 0 0 1-1.69-.9L9.6 3.9A2 2 0 0 0 7.93 3H4a2 2 0 0 0-2 2v13a2 2 0 0 0 2 2Z"></path>
+            </svg>
+           </div>
+           <div class="flex-1">
+            <h3 class="text-xl font-bold text-white mb-1 line-clamp-1">Andrew Tate's Empire Series</h3>
+            <p class="text-[#00BFFF] text-sm">8 Courses</p>
+           </div>
+          </div>
+         </div>
+         <div class="px-6 pb-6">
+          <div class="mt-2 space-y-2">
+           <div class="text-sm text-gray-300 line-clamp-1">
+            • 👑 Hustler's University 4.0: Elite Millionaire Program
+           </div>
+           <div class="text-sm text-gray-300 line-clamp-1">
+            • ⚔️ The War Room: Billionaire Network Secrets
+           </div>
+           <div class="text-sm text-[#00BFFF]">
+            +6 more courses
+           </div>
+          </div>
+          <button class="mt-6 w-full bg-[#101624] text-[#00BFFF] font-semibold py-2 px-4 rounded-lg flex items-center justify-center gap-2 group-hover:bg-[#0a223a] border border-[#00BFFF]/20 transition-all duration-300"><span>View Courses</span></button>
+         </div>
+        </div>
+       </div>
+       <div class="group cursor-pointer">
+        <div class="relative bg-[#101624] rounded-xl overflow-hidden border border-[#00BFFF]/20 transition-all duration-300 hover:-translate-y-1 hover:shadow-lg hover:shadow-[#00BFFF]/20">
+         <div class="relative p-6">
+          <div class="absolute -inset-3 bg-gradient-to-r from-[#00BFFF]/10 to-transparent blur-xl opacity-50 group-hover:opacity-75 transition-opacity duration-500"></div>
+          <div class="relative flex items-center gap-4">
+           <div class="bg-[#0a1a2f] p-3 rounded-xl border border-[#00BFFF]/20">
+            <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewbox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-folder w-8 h-8 text-[#00BFFF]">
+             <path d="M20 20a2 2 0 0 0 2-2V8a2 2 0 0 0-2-2h-7.9a2 2 0 0 1-1.69-.9L9.6 3.9A2 2 0 0 0 7.93 3H4a2 2 0 0 0-2 2v13a2 2 0 0 0 2 2Z"></path>
+            </svg>
+           </div>
+           <div class="flex-1">
+            <h3 class="text-xl font-bold text-white mb-1 line-clamp-1">Free Online Side Hustles: No Investment Needed</h3>
+            <p class="text-[#00BFFF] text-sm">6 Courses</p>
+           </div>
+          </div>
+         </div>
+         <div class="px-6 pb-6">
+          <div class="mt-2 space-y-2">
+           <div class="text-sm text-gray-300 line-clamp-1">
+            • Freelancing on Upwork &amp; Fiverr: Start with $0 Investment
+           </div>
+           <div class="text-sm text-gray-300 line-clamp-1">
+            • Affiliate Marketing for Beginners: Free Traffic Methods
+           </div>
+           <div class="text-sm text-[#00BFFF]">
+            +4 more courses
+           </div>
+          </div>
+          <button class="mt-6 w-full bg-[#101624] text-[#00BFFF] font-semibold py-2 px-4 rounded-lg flex items-center justify-center gap-2 group-hover:bg-[#0a223a] border border-[#00BFFF]/20 transition-all duration-300"><span>View Courses</span></button>
+         </div>
+        </div>
+       </div>
+       <div class="group cursor-pointer">
+        <div class="relative bg-[#101624] rounded-xl overflow-hidden border border-[#00BFFF]/20 transition-all duration-300 hover:-translate-y-1 hover:shadow-lg hover:shadow-[#00BFFF]/20">
+         <div class="relative p-6">
+          <div class="absolute -inset-3 bg-gradient-to-r from-[#00BFFF]/10 to-transparent blur-xl opacity-50 group-hover:opacity-75 transition-opacity duration-500"></div>
+          <div class="relative flex items-center gap-4">
+           <div class="bg-[#0a1a2f] p-3 rounded-xl border border-[#00BFFF]/20">
+            <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewbox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-folder w-8 h-8 text-[#00BFFF]">
+             <path d="M20 20a2 2 0 0 0 2-2V8a2 2 0 0 0-2-2h-7.9a2 2 0 0 1-1.69-.9L9.6 3.9A2 2 0 0 0 7.93 3H4a2 2 0 0 0-2 2v13a2 2 0 0 0 2 2Z"></path>
+            </svg>
+           </div>
+           <div class="flex-1">
+            <h3 class="text-xl font-bold text-white mb-1 line-clamp-1">Top Free Online Careers: $100K+ Potential</h3>
+            <p class="text-[#00BFFF] text-sm">6 Courses</p>
+           </div>
+          </div>
+         </div>
+         <div class="px-6 pb-6">
+          <div class="mt-2 space-y-2">
+           <div class="text-sm text-gray-300 line-clamp-1">
+            • Full Stack Web Developer
+           </div>
+           <div class="text-sm text-gray-300 line-clamp-1">
+            • Digital Marketer
+           </div>
+           <div class="text-sm text-[#00BFFF]">
+            +4 more courses
+           </div>
+          </div>
+          <button class="mt-6 w-full bg-[#101624] text-[#00BFFF] font-semibold py-2 px-4 rounded-lg flex items-center justify-center gap-2 group-hover:bg-[#0a223a] border border-[#00BFFF]/20 transition-all duration-300"><span>View Courses</span></button>
+         </div>
+        </div>
+       </div>
+       <div class="group cursor-pointer">
+        <div class="relative bg-[#101624] rounded-xl overflow-hidden border border-[#00BFFF]/20 transition-all duration-300 hover:-translate-y-1 hover:shadow-lg hover:shadow-[#00BFFF]/20">
+         <div class="relative p-6">
+          <div class="absolute -inset-3 bg-gradient-to-r from-[#00BFFF]/10 to-transparent blur-xl opacity-50 group-hover:opacity-75 transition-opacity duration-500"></div>
+          <div class="relative flex items-center gap-4">
+           <div class="bg-[#0a1a2f] p-3 rounded-xl border border-[#00BFFF]/20">
+            <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewbox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-folder w-8 h-8 text-[#00BFFF]">
+             <path d="M20 20a2 2 0 0 0 2-2V8a2 2 0 0 0-2-2h-7.9a2 2 0 0 1-1.69-.9L9.6 3.9A2 2 0 0 0 7.93 3H4a2 2 0 0 0-2 2v13a2 2 0 0 0 2 2Z"></path>
+            </svg>
+           </div>
+           <div class="flex-1">
+            <h3 class="text-xl font-bold text-white mb-1 line-clamp-1">Personal Growth</h3>
+            <p class="text-[#00BFFF] text-sm">4 Courses</p>
+           </div>
+          </div>
+         </div>
+         <div class="px-6 pb-6">
+          <div class="mt-2 space-y-2">
+           <div class="text-sm text-gray-300 line-clamp-1">
+            • Leadership: Practical Leadership Skills
+           </div>
+           <div class="text-sm text-gray-300 line-clamp-1">
+            • Become a SuperLearner® 2: Learn Speed Reading &amp; Boost Memory
+           </div>
+           <div class="text-sm text-[#00BFFF]">
+            +2 more courses
+           </div>
+          </div>
+          <button class="mt-6 w-full bg-[#101624] text-[#00BFFF] font-semibold py-2 px-4 rounded-lg flex items-center justify-center gap-2 group-hover:bg-[#0a223a] border border-[#00BFFF]/20 transition-all duration-300"><span>View Courses</span></button>
+         </div>
+        </div>
+       </div>
+       <div class="group cursor-pointer">
+        <div class="relative bg-[#101624] rounded-xl overflow-hidden border border-[#00BFFF]/20 transition-all duration-300 hover:-translate-y-1 hover:shadow-lg hover:shadow-[#00BFFF]/20">
+         <div class="relative p-6">
+          <div class="absolute -inset-3 bg-gradient-to-r from-[#00BFFF]/10 to-transparent blur-xl opacity-50 group-hover:opacity-75 transition-opacity duration-500"></div>
+          <div class="relative flex items-center gap-4">
+           <div class="bg-[#0a1a2f] p-3 rounded-xl border border-[#00BFFF]/20">
+            <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewbox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-folder w-8 h-8 text-[#00BFFF]">
+             <path d="M20 20a2 2 0 0 0 2-2V8a2 2 0 0 0-2-2h-7.9a2 2 0 0 1-1.69-.9L9.6 3.9A2 2 0 0 0 7.93 3H4a2 2 0 0 0-2 2v13a2 2 0 0 0 2 2Z"></path>
+            </svg>
+           </div>
+           <div class="flex-1">
+            <h3 class="text-xl font-bold text-white mb-1 line-clamp-1">Side Hustles</h3>
+            <p class="text-[#00BFFF] text-sm">3 Courses</p>
+           </div>
+          </div>
+         </div>
+         <div class="px-6 pb-6">
+          <div class="mt-2 space-y-2">
+           <div class="text-sm text-gray-300 line-clamp-1">
+            • Passive Income: 27 Ways to Earn Money While You Sleep
+           </div>
+           <div class="text-sm text-gray-300 line-clamp-1">
+            • AI Side Hustles: Make Money with ChatGPT, Midjourney &amp; More
+           </div>
+           <div class="text-sm text-[#00BFFF]">
+            +1 more courses
+           </div>
+          </div>
+          <button class="mt-6 w-full bg-[#101624] text-[#00BFFF] font-semibold py-2 px-4 rounded-lg flex items-center justify-center gap-2 group-hover:bg-[#0a223a] border border-[#00BFFF]/20 transition-all duration-300"><span>View Courses</span></button>
+         </div>
+        </div>
+       </div>
+       <div class="group cursor-pointer">
+        <div class="relative bg-[#101624] rounded-xl overflow-hidden border border-[#00BFFF]/20 transition-all duration-300 hover:-translate-y-1 hover:shadow-lg hover:shadow-[#00BFFF]/20">
+         <div class="relative p-6">
+          <div class="absolute -inset-3 bg-gradient-to-r from-[#00BFFF]/10 to-transparent blur-xl opacity-50 group-hover:opacity-75 transition-opacity duration-500"></div>
+          <div class="relative flex items-center gap-4">
+           <div class="bg-[#0a1a2f] p-3 rounded-xl border border-[#00BFFF]/20">
+            <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewbox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-folder w-8 h-8 text-[#00BFFF]">
+             <path d="M20 20a2 2 0 0 0 2-2V8a2 2 0 0 0-2-2h-7.9a2 2 0 0 1-1.69-.9L9.6 3.9A2 2 0 0 0 7.93 3H4a2 2 0 0 0-2 2v13a2 2 0 0 0 2 2Z"></path>
+            </svg>
+           </div>
+           <div class="flex-1">
+            <h3 class="text-xl font-bold text-white mb-1 line-clamp-1">Programming</h3>
+            <p class="text-[#00BFFF] text-sm">2 Courses</p>
+           </div>
+          </div>
+         </div>
+         <div class="px-6 pb-6">
+          <div class="mt-2 space-y-2">
+           <div class="text-sm text-gray-300 line-clamp-1">
+            • Python for Everybody
+           </div>
+           <div class="text-sm text-gray-300 line-clamp-1">
+            • The Complete SQL Bootcamp: Go from Zero to Hero
+           </div>
+          </div>
+          <button class="mt-6 w-full bg-[#101624] text-[#00BFFF] font-semibold py-2 px-4 rounded-lg flex items-center justify-center gap-2 group-hover:bg-[#0a223a] border border-[#00BFFF]/20 transition-all duration-300"><span>View Courses</span></button>
+         </div>
+        </div>
+       </div>
+      <div class="group cursor-pointer">
+        <div class="relative bg-[#101624] rounded-xl overflow-hidden border border-[#00BFFF]/20 transition-all duration-300 hover:-translate-y-1 hover:shadow-lg hover:shadow-[#00BFFF]/20">
+         <div class="relative p-6">
+          <div class="absolute -inset-3 bg-gradient-to-r from-[#00BFFF]/10 to-transparent blur-xl opacity-50 group-hover:opacity-75 transition-opacity duration-500"></div>
+          <div class="relative flex items-center gap-4">
+           <div class="bg-[#0a1a2f] p-3 rounded-xl border border-[#00BFFF]/20">
+            <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewbox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-folder w-8 h-8 text-[#00BFFF]">
+             <path d="M20 20a2 2 0 0 0 2-2V8a2 2 0 0 0-2-2h-7.9a2 2 0 0 1-1.69-.9L9.6 3.9A2 2 0 0 0 7.93 3H4a2 2 0 0 0-2 2v13a2 2 0 0 0 2 2Z"></path>
+            </svg>
+           </div>
+           <div class="flex-1">
+            <h3 class="text-xl font-bold text-white mb-1 line-clamp-1">Data Science</h3>
+            <p class="text-[#00BFFF] text-sm">2 Courses</p>
+           </div>
+          </div>
+         </div>
+         <div class="px-6 pb-6">
+          <div class="mt-2 space-y-2">
+           <div class="text-sm text-gray-300 line-clamp-1">
+            • Machine Learning A-Z™: AI, Python &amp; R + ChatGPT Bonus [2025]
+           </div>
+           <div class="text-sm text-gray-300 line-clamp-1">
+            • Python for Data Science and Machine Learning Bootcamp
+           </div>
+          </div>
+          <button class="mt-6 w-full bg-[#101624] text-[#00BFFF] font-semibold py-2 px-4 rounded-lg flex items-center justify-center gap-2 group-hover:bg-[#0a223a] border border-[#00BFFF]/20 transition-all duration-300"><span>View Courses</span></button>
+         </div>
+        </div>
+       </div>
+       <div class="group cursor-pointer">
+        <div class="relative bg-[#101624] rounded-xl overflow-hidden border border-[#00BFFF]/20 transition-all duration-300 hover:-translate-y-1 hover:shadow-lg hover:shadow-[#00BFFF]/20">
+         <div class="relative p-6">
+          <div class="absolute -inset-3 bg-gradient-to-r from-[#00BFFF]/10 to-transparent blur-xl opacity-50 group-hover:opacity-75 transition-opacity duration-500"></div>
+          <div class="relative flex items-center gap-4">
+           <div class="bg-[#0a1a2f] p-3 rounded-xl border border-[#00BFFF]/20">
+            <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewbox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-folder w-8 h-8 text-[#00BFFF]">
+             <path d="M20 20a2 2 0 0 0 2-2V8a2 2 0 0 0-2-2h-7.9a2 2 0 0 1-1.69-.9L9.6 3.9A2 2 0 0 0 7.93 3H4a2 2 0 0 0-2 2v13a2 2 0 0 0 2 2Z"></path>
+            </svg>
+           </div>
+           <div class="flex-1">
+            <h3 class="text-xl font-bold text-white mb-1 line-clamp-1">Digital Marketing</h3>
+            <p class="text-[#00BFFF] text-sm">2 Courses</p>
+           </div>
+          </div>
+         </div>
+         <div class="px-6 pb-6">
+          <div class="mt-2 space-y-2">
+           <div class="text-sm text-gray-300 line-clamp-1">
+            • The Complete Digital Marketing Guide - 24 Courses in 1
+           </div>
+           <div class="text-sm text-gray-300 line-clamp-1">
+            • Instagram Marketing 2025: Complete Guide To Instagram Growth
+           </div>
+          </div>
+          <button class="mt-6 w-full bg-[#101624] text-[#00BFFF] font-semibold py-2 px-4 rounded-lg flex items-center justify-center gap-2 group-hover:bg-[#0a223a] border border-[#00BFFF]/20 transition-all duration-300"><span>View Courses</span></button>
+         </div>
+        </div>
+       </div>
+       <div class="group cursor-pointer">
+        <div class="relative bg-[#101624] rounded-xl overflow-hidden border border-[#00BFFF]/20 transition-all duration-300 hover:-translate-y-1 hover:shadow-lg hover:shadow-[#00BFFF]/20">
+         <div class="relative p-6">
+          <div class="absolute -inset-3 bg-gradient-to-r from-[#00BFFF]/10 to-transparent blur-xl opacity-50 group-hover:opacity-75 transition-opacity duration-500"></div>
+          <div class="relative flex items-center gap-4">
+           <div class="bg-[#0a1a2f] p-3 rounded-xl border border-[#00BFFF]/20">
+            <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewbox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-folder w-8 h-8 text-[#00BFFF]">
+             <path d="M20 20a2 2 0 0 0 2-2V8a2 2 0 0 0-2-2h-7.9a2 2 0 0 1-1.69-.9L9.6 3.9A2 2 0 0 0 7.93 3H4a2 2 0 0 0-2 2v13a2 2 0 0 0 2 2Z"></path>
+            </svg>
+           </div>
+           <div class="flex-1">
+            <h3 class="text-xl font-bold text-white mb-1 line-clamp-1">Ecommerce</h3>
+            <p class="text-[#00BFFF] text-sm">2 Courses</p>
+           </div>
+          </div>
+         </div>
+         <div class="px-6 pb-6">
+          <div class="mt-2 space-y-2">
+           <div class="text-sm text-gray-300 line-clamp-1">
+            • Shopify Dropshipping 2025: Build A 6-Figure Online Business
+           </div>
+           <div class="text-sm text-gray-300 line-clamp-1">
+            • E-Commerce Mastery: Amazon FBA, Shopify, eBay, Etsy &amp; More
+           </div>
+          </div>
+          <button class="mt-6 w-full bg-[#101624] text-[#00BFFF] font-semibold py-2 px-4 rounded-lg flex items-center justify-center gap-2 group-hover:bg-[#0a223a] border border-[#00BFFF]/20 transition-all duration-300"><span>View Courses</span></button>
+         </div>
+        </div>
+       </div>
+       <div class="group cursor-pointer">
+        <div class="relative bg-[#101624] rounded-xl overflow-hidden border border-[#00BFFF]/20 transition-all duration-300 hover:-translate-y-1 hover:shadow-lg hover:shadow-[#00BFFF]/20">
+         <div class="relative p-6">
+          <div class="absolute -inset-3 bg-gradient-to-r from-[#00BFFF]/10 to-transparent blur-xl opacity-50 group-hover:opacity-75 transition-opacity duration-500"></div>
+          <div class="relative flex items-center gap-4">
+           <div class="bg-[#0a1a2f] p-3 rounded-xl border border-[#00BFFF]/20">
+            <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewbox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-folder w-8 h-8 text-[#00BFFF]">
+             <path d="M20 20a2 2 0 0 0 2-2V8a2 2 0 0 0-2-2h-7.9a2 2 0 0 1-1.69-.9L9.6 3.9A2 2 0 0 0 7.93 3H4a2 2 0 0 0-2 2v13a2 2 0 0 0 2 2Z"></path>
+            </svg>
+           </div>
+           <div class="flex-1">
+            <h3 class="text-xl font-bold text-white mb-1 line-clamp-1">Crypto &amp; Blockchain</h3>
+            <p class="text-[#00BFFF] text-sm">2 Courses</p>
+           </div>
+          </div>
+         </div>
+         <div class="px-6 pb-6">
+          <div class="mt-2 space-y-2">
+           <div class="text-sm text-gray-300 line-clamp-1">
+            • Cryptocurrency Investment Course 2025: Fund Your Retirement!
+           </div>
+           <div class="text-sm text-gray-300 line-clamp-1">
+            • Blockchain A-Z™: Learn How To Build Your First Blockchain
+           </div>
+          </div>
+          <button class="mt-6 w-full bg-[#101624] text-[#00BFFF] font-semibold py-2 px-4 rounded-lg flex items-center justify-center gap-2 group-hover:bg-[#0a223a] border border-[#00BFFF]/20 transition-all duration-300"><span>View Courses</span></button>
+         </div>
+        </div>
+       </div>
+       <div class="group cursor-pointer">
+        <div class="relative bg-[#101624] rounded-xl overflow-hidden border border-[#00BFFF]/20 transition-all duration-300 hover:-translate-y-1 hover:shadow-lg hover:shadow-[#00BFFF]/20">
+         <div class="relative p-6">
+          <div class="absolute -inset-3 bg-gradient-to-r from-[#00BFFF]/10 to-transparent blur-xl opacity-50 group-hover:opacity-75 transition-opacity duration-500"></div>
+          <div class="relative flex items-center gap-4">
+           <div class="bg-[#0a1a2f] p-3 rounded-xl border border-[#00BFFF]/20">
+            <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewbox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-folder w-8 h-8 text-[#00BFFF]">
+             <path d="M20 20a2 2 0 0 0 2-2V8a2 2 0 0 0-2-2h-7.9a2 2 0 0 1-1.69-.9L9.6 3.9A2 2 0 0 0 7.93 3H4a2 2 0 0 0-2 2v13a2 2 0 0 0 2 2Z"></path>
+            </svg>
+           </div>
+           <div class="flex-1">
+            <h3 class="text-xl font-bold text-white mb-1 line-clamp-1">Automation &amp; AI</h3>
+            <p class="text-[#00BFFF] text-sm">2 Courses</p>
+           </div>
+          </div>
+         </div>
+         <div class="px-6 pb-6">
+          <div class="mt-2 space-y-2">
+           <div class="text-sm text-gray-300 line-clamp-1">
+            • ChatGPT Complete Guide: Learn Midjourney, ChatGPT 4 &amp; DALL-E
+           </div>
+           <div class="text-sm text-gray-300 line-clamp-1">
+            • Artificial Intelligence A-Z™: Learn How To Build An AI
+           </div>
+          </div>
+          <button class="mt-6 w-full bg-[#101624] text-[#00BFFF] font-semibold py-2 px-4 rounded-lg flex items-center justify-center gap-2 group-hover:bg-[#0a223a] border border-[#00BFFF]/20 transition-all duration-300"><span>View Courses</span></button>
+         </div>
+        </div>
+       </div>
+       <div class="group cursor-pointer">
+        <div class="relative bg-[#101624] rounded-xl overflow-hidden border border-[#00BFFF]/20 transition-all duration-300 hover:-translate-y-1 hover:shadow-lg hover:shadow-[#00BFFF]/20">
+         <div class="relative p-6">
+          <div class="absolute -inset-3 bg-gradient-to-r from-[#00BFFF]/10 to-transparent blur-xl opacity-50 group-hover:opacity-75 transition-opacity duration-500"></div>
+          <div class="relative flex items-center gap-4">
+           <div class="bg-[#0a1a2f] p-3 rounded-xl border border-[#00BFFF]/20">
+            <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewbox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-folder w-8 h-8 text-[#00BFFF]">
+             <path d="M20 20a2 2 0 0 0 2-2V8a2 2 0 0 0-2-2h-7.9a2 2 0 0 1-1.69-.9L9.6 3.9A2 2 0 0 0 7.93 3H4a2 2 0 0 0-2 2v13a2 2 0 0 0 2 2Z"></path>
+            </svg>
+           </div>
+           <div class="flex-1">
+            <h3 class="text-xl font-bold text-white mb-1 line-clamp-1">Finance &amp; Accounting</h3>
+            <p class="text-[#00BFFF] text-sm">2 Courses</p>
+           </div>
+          </div>
+         </div>
+         <div class="px-6 pb-6">
+          <div class="mt-2 space-y-2">
+           <div class="text-sm text-gray-300 line-clamp-1">
+            • The Complete Financial Analyst Course 2025
+           </div>
+           <div class="text-sm text-gray-300 line-clamp-1">
+            • Accounting &amp; Financial Statement Analysis: Complete Training
+           </div>
+          </div>
+          <button class="mt-6 w-full bg-[#101624] text-[#00BFFF] font-semibold py-2 px-4 rounded-lg flex items-center justify-center gap-2 group-hover:bg-[#0a223a] border border-[#00BFFF]/20 transition-all duration-300"><span>View Courses</span></button>
+         </div>
+        </div>
+       </div>
+       <div class="group cursor-pointer">
+        <div class="relative bg-[#101624] rounded-xl overflow-hidden border border-[#00BFFF]/20 transition-all duration-300 hover:-translate-y-1 hover:shadow-lg hover:shadow-[#00BFFF]/20">
+         <div class="relative p-6">
+          <div class="absolute -inset-3 bg-gradient-to-r from-[#00BFFF]/10 to-transparent blur-xl opacity-50 group-hover:opacity-75 transition-opacity duration-500"></div>
+          <div class="relative flex items-center gap-4">
+           <div class="bg-[#0a1a2f] p-3 rounded-xl border border-[#00BFFF]/20">
+            <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewbox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-folder w-8 h-8 text-[#00BFFF]">
+             <path d="M20 20a2 2 0 0 0 2-2V8a2 2 0 0 0-2-2h-7.9a2 2 0 0 1-1.69-.9L9.6 3.9A2 2 0 0 0 7.93 3H4a2 2 0 0 0-2 2v13a2 2 0 0 0 2 2Z"></path>
+            </svg>
+           </div>
+           <div class="flex-1">
+            <h3 class="text-xl font-bold text-white mb-1 line-clamp-1">Freelancing</h3>
+            <p class="text-[#00BFFF] text-sm">2 Courses</p>
+           </div>
+          </div>
+         </div>
+         <div class="px-6 pb-6">
+          <div class="mt-2 space-y-2">
+           <div class="text-sm text-gray-300 line-clamp-1">
+            • Fiverr Success: Freelancing &amp; Selling Gigs Like a Pro
+           </div>
+           <div class="text-sm text-gray-300 line-clamp-1">
+            • Freelancing on Upwork &amp; Fiverr: Start with $0 Investment
+           </div>
+          </div>
+          <button class="mt-6 w-full bg-[#101624] text-[#00BFFF] font-semibold py-2 px-4 rounded-lg flex items-center justify-center gap-2 group-hover:bg-[#0a223a] border border-[#00BFFF]/20 transition-all duration-300"><span>View Courses</span></button>
+         </div>
+        </div>
+       </div>
+       <div class="group cursor-pointer">
+        <div class="relative bg-[#101624] rounded-xl overflow-hidden border border-[#00BFFF]/20 transition-all duration-300 hover:-translate-y-1 hover:shadow-lg hover:shadow-[#00BFFF]/20">
+         <div class="relative p-6">
+          <div class="absolute -inset-3 bg-gradient-to-r from-[#00BFFF]/10 to-transparent blur-xl opacity-50 group-hover:opacity-75 transition-opacity duration-500"></div>
+          <div class="relative flex items-center gap-4">
+           <div class="bg-[#0a1a2f] p-3 rounded-xl border border-[#00BFFF]/20">
+            <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewbox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-folder w-8 h-8 text-[#00BFFF]">
+             <path d="M20 20a2 2 0 0 0 2-2V8a2 2 0 0 0-2-2h-7.9a2 2 0 0 1-1.69-.9L9.6 3.9A2 2 0 0 0 7.93 3H4a2 2 0 0 0-2 2v13a2 2 0 0 0 2 2Z"></path>
+            </svg>
+           </div>
+           <div class="flex-1">
+            <h3 class="text-xl font-bold text-white mb-1 line-clamp-1">Full Stack Developer</h3>
+            <p class="text-[#00BFFF] text-sm">1 Course</p>
+           </div>
+          </div>
+         </div>
+         <div class="px-6 pb-6">
+          <div class="mt-2 space-y-2">
+           <div class="text-sm text-gray-300 line-clamp-1">
+            • The Complete 2025 Web Development Bootcamp
+           </div>
+          </div>
+          <button class="mt-6 w-full bg-[#101624] text-[#00BFFF] font-semibold py-2 px-4 rounded-lg flex items-center justify-center gap-2 group-hover:bg-[#0a223a] border border-[#00BFFF]/20 transition-all duration-300"><span>View Courses</span></button>
+         </div>
+        </div>
+       </div>
+       <div class="group cursor-pointer">
+        <div class="relative bg-[#101624] rounded-xl overflow-hidden border border-[#00BFFF]/20 transition-all duration-300 hover:-translate-y-1 hover:shadow-lg hover:shadow-[#00BFFF]/20">
+         <div class="relative p-6">
+          <div class="absolute -inset-3 bg-gradient-to-r from-[#00BFFF]/10 to-transparent blur-xl opacity-50 group-hover:opacity-75 transition-opacity duration-500"></div>
+          <div class="relative flex items-center gap-4">
+           <div class="bg-[#0a1a2f] p-3 rounded-xl border border-[#00BFFF]/20">
+            <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewbox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-folder w-8 h-8 text-[#00BFFF]">
+             <path d="M20 20a2 2 0 0 0 2-2V8a2 2 0 0 0-2-2h-7.9a2 2 0 0 1-1.69-.9L9.6 3.9A2 2 0 0 0 7.93 3H4a2 2 0 0 0-2 2v13a2 2 0 0 0 2 2Z"></path>
+            </svg>
+           </div>
+           <div class="flex-1">
+            <h3 class="text-xl font-bold text-white mb-1 line-clamp-1">YouTube Automation</h3>
+            <p class="text-[#00BFFF] text-sm">1 Course</p>
+           </div>
+          </div>
+         </div>
+         <div class="px-6 pb-6">
+          <div class="mt-2 space-y-2">
+           <div class="text-sm text-gray-300 line-clamp-1">
+            • YouTube Masterclass: Complete Guide to YouTube Success
+           </div>
+          </div>
+          <button class="mt-6 w-full bg-[#101624] text-[#00BFFF] font-semibold py-2 px-4 rounded-lg flex items-center justify-center gap-2 group-hover:bg-[#0a223a] border border-[#00BFFF]/20 transition-all duration-300"><span>View Courses</span></button>
+         </div>
+        </div>
+       </div>
+       <div class="group cursor-pointer">
+        <div class="relative bg-[#101624] rounded-xl overflow-hidden border border-[#00BFFF]/20 transition-all duration-300 hover:-translate-y-1 hover:shadow-lg hover:shadow-[#00BFFF]/20">
+         <div class="relative p-6">
+          <div class="absolute -inset-3 bg-gradient-to-r from-[#00BFFF]/10 to-transparent blur-xl opacity-50 group-hover:opacity-75 transition-opacity duration-500"></div>
+          <div class="relative flex items-center gap-4">
+           <div class="bg-[#0a1a2f] p-3 rounded-xl border border-[#00BFFF]/20">
+            <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewbox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-folder w-8 h-8 text-[#00BFFF]">
+             <path d="M20 20a2 2 0 0 0 2-2V8a2 2 0 0 0-2-2h-7.9a2 2 0 0 1-1.69-.9L9.6 3.9A2 2 0 0 0 7.93 3H4a2 2 0 0 0-2 2v13a2 2 0 0 0 2 2Z"></path>
+            </svg>
+           </div>
+           <div class="flex-1">
+            <h3 class="text-xl font-bold text-white mb-1 line-clamp-1">TikTok Videos</h3>
+            <p class="text-[#00BFFF] text-sm">1 Course</p>
+           </div>
+          </div>
+         </div>
+         <div class="px-6 pb-6">
+          <div class="mt-2 space-y-2">
+           <div class="text-sm text-gray-300 line-clamp-1">
+            • TikTok Marketing 2025: Grow Your Account &amp; Master TikTok Ads
+           </div>
+          </div>
+          <button class="mt-6 w-full bg-[#101624] text-[#00BFFF] font-semibold py-2 px-4 rounded-lg flex items-center justify-center gap-2 group-hover:bg-[#0a223a] border border-[#00BFFF]/20 transition-all duration-300"><span>View Courses</span></button>
+         </div>
+        </div>
+       </div>
+       <div class="group cursor-pointer">
+        <div class="relative bg-[#101624] rounded-xl overflow-hidden border border-[#00BFFF]/20 transition-all duration-300 hover:-translate-y-1 hover:shadow-lg hover:shadow-[#00BFFF]/20">
+         <div class="relative p-6">
+          <div class="absolute -inset-3 bg-gradient-to-r from-[#00BFFF]/10 to-transparent blur-xl opacity-50 group-hover:opacity-75 transition-opacity duration-500"></div>
+          <div class="relative flex items-center gap-4">
+           <div class="bg-[#0a1a2f] p-3 rounded-xl border border-[#00BFFF]/20">
+            <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewbox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-folder w-8 h-8 text-[#00BFFF]">
+             <path d="M20 20a2 2 0 0 0 2-2V8a2 2 0 0 0-2-2h-7.9a2 2 0 0 1-1.69-.9L9.6 3.9A2 2 0 0 0 7.93 3H4a2 2 0 0 0-2 2v13a2 2 0 0 0 2 2Z"></path>
+            </svg>
+           </div>
+           <div class="flex-1">
+            <h3 class="text-xl font-bold text-white mb-1 line-clamp-1">Faceless Channel</h3>
+            <p class="text-[#00BFFF] text-sm">1 Course</p>
+           </div>
+          </div>
+         </div>
+         <div class="px-6 pb-6">
+          <div class="mt-2 space-y-2">
+           <div class="text-sm text-gray-300 line-clamp-1">
+            • Master Faceless TikTok Marketing with AI, ChatGPT &amp; Canva!
+           </div>
+          </div>
+          <button class="mt-6 w-full bg-[#101624] text-[#00BFFF] font-semibold py-2 px-4 rounded-lg flex items-center justify-center gap-2 group-hover:bg-[#0a223a] border border-[#00BFFF]/20 transition-all duration-300"><span>View Courses</span></button>
+         </div>
+        </div>
+       </div>
+       <div class="group cursor-pointer">
+        <div class="relative bg-[#101624] rounded-xl overflow-hidden border border-[#00BFFF]/20 transition-all duration-300 hover:-translate-y-1 hover:shadow-lg hover:shadow-[#00BFFF]/20">
+         <div class="relative p-6">
+          <div class="absolute -inset-3 bg-gradient-to-r from-[#00BFFF]/10 to-transparent blur-xl opacity-50 group-hover:opacity-75 transition-opacity duration-500"></div>
+          <div class="relative flex items-center gap-4">
+           <div class="bg-[#0a1a2f] p-3 rounded-xl border border-[#00BFFF]/20">
+            <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewbox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-folder w-8 h-8 text-[#00BFFF]">
+             <path d="M20 20a2 2 0 0 0 2-2V8a2 2 0 0 0-2-2h-7.9a2 2 0 0 1-1.69-.9L9.6 3.9A2 2 0 0 0 7.93 3H4a2 2 0 0 0-2 2v13a2 2 0 0 0 2 2Z"></path>
+            </svg>
+           </div>
+           <div class="flex-1">
+            <h3 class="text-xl font-bold text-white mb-1 line-clamp-1">Instagram Automation</h3>
+            <p class="text-[#00BFFF] text-sm">1 Course</p>
+           </div>
+          </div>
+         </div>
+         <div class="px-6 pb-6">
+          <div class="mt-2 space-y-2">
+           <div class="text-sm text-gray-300 line-clamp-1">
+            • Instagram Marketing 2025: Complete Guide To Instagram Growth
+           </div>
+          </div>
+          <button class="mt-6 w-full bg-[#101624] text-[#00BFFF] font-semibold py-2 px-4 rounded-lg flex items-center justify-center gap-2 group-hover:bg-[#0a223a] border border-[#00BFFF]/20 transition-all duration-300"><span>View Courses</span></button>
+         </div>
+        </div>
+       </div>
+       <div class="group cursor-pointer">
+        <div class="relative bg-[#101624] rounded-xl overflow-hidden border border-[#00BFFF]/20 transition-all duration-300 hover:-translate-y-1 hover:shadow-lg hover:shadow-[#00BFFF]/20">
+         <div class="relative p-6">
+          <div class="absolute -inset-3 bg-gradient-to-r from-[#00BFFF]/10 to-transparent blur-xl opacity-50 group-hover:opacity-75 transition-opacity duration-500"></div>
+          <div class="relative flex items-center gap-4">
+           <div class="bg-[#0a1a2f] p-3 rounded-xl border border-[#00BFFF]/20">
+            <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewbox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-folder w-8 h-8 text-[#00BFFF]">
+             <path d="M20 20a2 2 0 0 0 2-2V8a2 2 0 0 0-2-2h-7.9a2 2 0 0 1-1.69-.9L9.6 3.9A2 2 0 0 0 7.93 3H4a2 2 0 0 0-2 2v13a2 2 0 0 0 2 2Z"></path>
+            </svg>
+           </div>
+           <div class="flex-1">
+            <h3 class="text-xl font-bold text-white mb-1 line-clamp-1">ChatGPT</h3>
+            <p class="text-[#00BFFF] text-sm">1 Course</p>
+           </div>
+          </div>
+         </div>
+         <div class="px-6 pb-6">
+          <div class="mt-2 space-y-2">
+           <div class="text-sm text-gray-300 line-clamp-1">
+            • ChatGPT Complete Guide: Learn Midjourney, ChatGPT 4 &amp; DALL-E
+           </div>
+          </div>
+          <button class="mt-6 w-full bg-[#101624] text-[#00BFFF] font-semibold py-2 px-4 rounded-lg flex items-center justify-center gap-2 group-hover:bg-[#0a223a] border border-[#00BFFF]/20 transition-all duration-300"><span>View Courses</span></button>
+         </div>
+        </div>
+       </div>
+       <div class="group cursor-pointer">
+        <div class="relative bg-[#101624] rounded-xl overflow-hidden border border-[#00BFFF]/20 transition-all duration-300 hover:-translate-y-1 hover:shadow-lg hover:shadow-[#00BFFF]/20">
+         <div class="relative p-6">
+          <div class="absolute -inset-3 bg-gradient-to-r from-[#00BFFF]/10 to-transparent blur-xl opacity-50 group-hover:opacity-75 transition-opacity duration-500"></div>
+          <div class="relative flex items-center gap-4">
+           <div class="bg-[#0a1a2f] p-3 rounded-xl border border-[#00BFFF]/20">
+            <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewbox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-folder w-8 h-8 text-[#00BFFF]">
+             <path d="M20 20a2 2 0 0 0 2-2V8a2 2 0 0 0-2-2h-7.9a2 2 0 0 1-1.69-.9L9.6 3.9A2 2 0 0 0 7.93 3H4a2 2 0 0 0-2 2v13a2 2 0 0 0 2 2Z"></path>
+            </svg>
+           </div>
+           <div class="flex-1">
+            <h3 class="text-xl font-bold text-white mb-1 line-clamp-1">Cloud &amp; IT</h3>
+            <p class="text-[#00BFFF] text-sm">1 Course</p>
+           </div>
+          </div>
+         </div>
+         <div class="px-6 pb-6">
+          <div class="mt-2 space-y-2">
+           <div class="text-sm text-gray-300 line-clamp-1">
+            • AWS Certified Solutions Architect - Associate 2025
+           </div>
+          </div>
+          <button class="mt-6 w-full bg-[#101624] text-[#00BFFF] font-semibold py-2 px-4 rounded-lg flex items-center justify-center gap-2 group-hover:bg-[#0a223a] border border-[#00BFFF]/20 transition-all duration-300"><span>View Courses</span></button>
+         </div>
+        </div>
+       </div>
+      </div>
+      <div class="flex justify-center mt-8">
+       <div class="relative bg-[#101624] border border-[#00BFFF]/20 rounded-xl p-4 flex items-center gap-3 w-full max-w-2xl">
+        <div class="absolute -inset-0.5 bg-gradient-to-r from-[#00BFFF]/20 to-[#00BFFF]/0 opacity-50 rounded-xl"></div>
+        <div class="relative z-10 bg-[#0a223a] p-2 rounded-lg border border-[#00BFFF]/20">
+         <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewbox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-alert-circle text-[#00BFFF]">
+          <circle cx="12" cy="12" r="10"></circle>
+          <line x1="12" x2="12" y1="8" y2="12"></line>
+          <line x1="12" x2="12.01" y1="16" y2="16"></line>
+         </svg>
+        </div>
+        <div class="relative z-10 flex-1">
+         <p class="text-white/90 text-sm">Use <span class="text-[#00BFFF] font-semibold">Google Chrome</span> or disable <span class="text-[#00BFFF] font-semibold">ad blocker</span> if download page doesn't open.</p>
+        </div>
+       </div>
+      </div>
+     </div>
+    </div>
+   </div>
+  </div> 
+ </body>
+</html>
